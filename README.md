@@ -1,6 +1,6 @@
-# OnBoarding-React-Native-App
+# EduTechPro-React-Native-App
 
-![Image](https://cdn.dribbble.com/users/4230508/screenshots/20214736/media/054c4a7b94b2e40931ed3143ab575864.png?compress=1&resize=1600x1200&vertical=top)
+![Image](./assets/images/Edu%20Tech%20pro.jpg)
 
 **Starter Project** [Link](https://github.com/tugane/OnBoarding-React-Native-App-Starter)
 
